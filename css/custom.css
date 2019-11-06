@@ -1,0 +1,13 @@
+body{
+	background-color: pink;
+	width: 100%;
+}
+
+table{
+	border-color: blue;
+	border: 0px solid #999;
+    padding: 8px 20px;
+    font-family: Arial Bold;
+    color: black;
+
+}
